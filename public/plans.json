@@ -19,7 +19,8 @@
             "1 TB Storage",
             "5 Users Allowed",
             "Send up to 10 GB"
-        ]
+        ],
+        "top": true
     },
     {
         "id": 3,
