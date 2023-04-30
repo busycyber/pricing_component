@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "name": "Basic",
+        "priceMonthly": 19.99,
+        "priceAnnually": 199.99,
+        "features": [
+            "500 GB Storage",
+            "2 Users Allowed",
+            "Send up to 3 GB"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Professional",
+        "priceMonthly": 24.99,
+        "priceAnnually": 249.99,
+        "features": [
+            "1 TB Storage",
+            "5 Users Allowed",
+            "Send up to 10 GB"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Master",
+        "priceMonthly": 39.99,
+        "priceAnnually": 399.99,
+        "features": [
+            "2 TB Storage",
+            "10 Users Allowed",
+            "Send up to 20 GB"
+        ]
+    }
+]
