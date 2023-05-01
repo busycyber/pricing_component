@@ -4,4 +4,18 @@
 
 body {
     @apply bg-neutral-light text-[15px] font-montserrat font-bold;
+
+    overflow-y: scroll;
+    box-sizing: border-box;
+    background-image: url('assets/images/bg-top.svg'), url('assets/images/bg-bottom.svg');
+    background-repeat: no-repeat, no-repeat;
+    background-size: 80%, 26.5%;
+    background-position: top 0 right -10rem, bottom -4.7rem left -1.9rem;
+}
+
+@screen desktop {
+    body {
+        background-size: 26.5%, 26.5%;
+        background-position: top 0 right -1rem, bottom -4.7rem left -1.9rem;
+    }
 }
