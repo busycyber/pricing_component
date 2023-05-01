@@ -27,12 +27,16 @@ This is a solution to the [Pricing component with toggle challenge on Frontend M
 ```bash
 # Clone the repository
 git clone
+
 # Enter the directory
 cd pricing_component_vue
+
 # Install the dependencies
 npm install
+
 # Run the development server
 npm run dev
+
 ```
 
 ### Screenshot
@@ -87,3 +91,4 @@ export const useStore = defineStore('store', {
 - Website - [Aristeo Ibarra](https://www.aristeoibarra.com)
 - Frontend Mentor - [@aristeoibarra](https://www.frontendmentor.io/profile/aristeoibarra)
 - Twitter - [@aristeoibarra1](https://www.twitter.com/aristeoibarra1)
+
